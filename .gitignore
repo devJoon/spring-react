@@ -31,5 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Frontend ###
 /src/main/app/node_modules/
 /src/main/app/yarn.lock
+/src/main/app/build/
+/src/main/app/.eslintcache
