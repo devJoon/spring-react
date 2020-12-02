@@ -1,0 +1,12 @@
+server:
+  port: 8780 #embedded Tomcat port
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:testdb # in-memory
+    #url: jdbc:h2:file:./src/main/resources/h2.db
+    driver-class-name: org.h2.Driver
+    username: navi
+    password: 1473
+  jpa:
+    database-platform: org.hibernate.dialect.H2Dialect

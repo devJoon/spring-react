@@ -1,0 +1,4 @@
+1. Database 연동 with spring JPA
+    - database 설정(JDBC url)
+        Spring CommandLineRunner
+        H2 database : in-memory -> file-based 변환
