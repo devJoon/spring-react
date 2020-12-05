@@ -1,13 +1,13 @@
-package com.dev.joon;
+package com.dev.joon.api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringReactScratchApplication {
+public class ApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringReactScratchApplication.class, args);
+        SpringApplication.run(ApiApplication.class, args);
     }
 
 }
