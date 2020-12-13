@@ -1,4 +1,4 @@
-package com.dev.joon.api;
+package com.dev.joon;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
